@@ -1,0 +1,22 @@
+﻿@import url(Site.css);
+body {
+  background-image: url('/images/handmadepaper_2X.png');
+  color: #F50731;
+  /*background-color: $bgcolor;*/
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.wirkmessage {
+  margin: 3em 0 3em 0;
+  font-size: 1.5em;
+  text-align: center; }
+
+.wirkbar {
+  background-color: #F50731; }
+
+.logoimage {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 99%; }
+
+/*# sourceMappingURL=Main.css.map */

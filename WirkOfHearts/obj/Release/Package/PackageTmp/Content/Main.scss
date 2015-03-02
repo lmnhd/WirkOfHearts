@@ -1,0 +1,34 @@
+﻿@import 'Site.css';
+$maincolor: #F50731;
+$maincolor2: #16BFD2;
+$bgcolor: #fff;
+$bgcolor2: #ffffff;
+$bgimage1: url('/images/handmadepaper_2X.png');
+$fontstack:;
+
+body {
+    background-image: $bgimage1;
+    color: $maincolor;
+    /*background-color: $bgcolor;*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    //font-size:.7em;
+}
+.wirkmessage{
+    margin: 3em 0 3em 0;
+    font-size:1.5em;
+    text-align:center;
+
+}
+
+.wirkbar{
+    background-color:$maincolor;
+}
+.logoimage{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    width:99%;
+}
